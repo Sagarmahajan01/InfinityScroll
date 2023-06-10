@@ -4,79 +4,79 @@
     "name": "Chizz Pizza",
     "description": "Delicious and chizy Pizza with Various vegi's",
     "price": 99.99,
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fpizza%2F&psig=AOvVaw1_2oqF8z4iK0OukOhd6rst&ust=1686499854108000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCr98iLuf8CFQAAAAAdAAAAABAE",
+    "image": "https://riceinfo.com/wp-content/uploads/2022/09/shortcut-spiced-chicken-biryani-recipe.jpg",
     "category": "Pizza"
   },
   {
     "id": 2,
     "name": "Biryani",
     "description": "various veggies are use to inhanece to test",
-    "price":2.99,
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Friceinfo.com%2Fwp-content%2Fuploads%2F2022%2F09%2Fshortcut-spiced-chicken-biryani-recipe.jpg&tbnid=yuvp6nNMcVogFM&vet=12ahUKEwi7paOIjbn_AhUWKLcAHUkOBMcQMygZegUIARDZAg..i&imgrefurl=https%3A%2F%2Friceinfo.com%2Frecipe%2Fshortcut-spiced-chicken-biryani%2F&docid=l0xjSokY0oKunM&w=800&h=800&q=biryani&ved=2ahUKEwi7paOIjbn_AhUWKLcAHUkOBMcQMygZegUIARDZAg",
+    "price":99,
+     "image": "https://riceinfo.com/wp-content/uploads/2022/09/shortcut-spiced-chicken-biryani-recipe.jpg"
     "category": "Meat"
   },
   {
     "id": 3,
     "name": "Organic Eggs",
     "description": "Farm-fresh eggs laid by free-range chickens.",
-    "price": 4.99,
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.exportersindia.com%2Fproduct_images%2Fbc-full%2F2021%2F12%2F9652582%2Feggs--1638531974.png&tbnid=qxg0dKIERgp6YM&vet=12ahUKEwijrZ2ojbn_AhWFMrcAHfumB-YQMygMegUIARCCAg..i&imgrefurl=https%3A%2F%2Fwww.exportersindia.com%2Fproduct-detail%2Ffarm-fresh-organic-eggs-6103562.htm&docid=qk4M6JOkCxQ_FM&w=600&h=600&q=organic%20eggs&ved=2ahUKEwijrZ2ojbn_AhWFMrcAHfumB-YQMygMegUIARCCAg",
+    "price": 99,
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40178536_1-kavita-agrros-brown-eggs.jpg",
     "category": "Dairy"
   },
   {
     "id": 4,
-    "name": "Fresh Vegetables Bundle",
+    "name": "Butter Chicken",
     "description": "A variety of seasonal vegetables packed with nutrients.",
-    "price": 8.99,
-    "image": "https://example.com/vegetables.jpg",
-    "category": "Vegetables"
+    "price": 80.99,
+    "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--750x750.jpg",
+    "category": "Non-veg"
   },
   {
     "id": 5,
-    "name": "Artisan Bread",
+    "name": "Momos",
     "description": "Handcrafted bread made with the finest ingredients.",
-    "price": 5.99,
-    "image": "https://example.com/bread.jpg",
+    "price": 50.99,
+    "image": "https://www.thespruceeats.com/thmb/UnVh_-znw7ikMUciZIx5sNqBtTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/steamed-momos-wontons-1957616-hero-01-1c59e22bad0347daa8f0dfe12894bc3c.jpg",
     "category": "Bakery"
   },
   {
     "id": 6,
     "name": "cheese-Burger",
     "description": "A selection of premium cheeses from around the world.",
-    "price": 12.99,
-    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.cntraveller.in%2Fphotos%2F6246f468c579dd6f2d1244b6%2F4%3A3%2Fw_2120%2Ch_1590%2Cc_limit%2FBest%2520Burgers%2520in%2520Mumbai%2520_Louis%2520Monstercheese%2520Burger.jpg&tbnid=xq3WgMYDC3PcXM&vet=12ahUKEwiwmIusjrn_AhUXzqACHQofBwUQMygBegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fwww.cntraveller.in%2Fstory%2Fthe-best-burgers-in-mumbai-as-picked-by-the-citys-top-foodies%2F&docid=gLORSS6SzwrxYM&w=2120&h=1590&q=burger&ved=2ahUKEwiwmIusjrn_AhUXzqACHQofBwUQMygBegUIARD-AQ",
+    "price": 120.99,
+    "image": "https://imgmedia.lbb.in/media/2018/12/5c23832ce62289785cb36316_1545831212202.jpg",
     "category": "Dairy"
   },
   {
     "id": 7,
-    "name": "Organic Coffee Beans",
-    "description": "Ethically sourced coffee beans for a rich and aromatic brew.",
-    "price": 9.99,
+    "name": "cold-Coffee",
+    "description": "https://curlytales.com/wp-content/uploads/2022/05/Untitled-design-2022-05-25T184543.982-1170x658.jpg",
+    "price": 101,
     "image": "https://example.com/coffee.jpg",
     "category": "Beverages"
   },
   {
     "id": 8,
-    "name": "Deluxe Chocolate Assortment",
+    "name": "Somosa",
     "description": "Indulge in a luxurious assortment of premium chocolates.",
-    "price": 14.99,
-    "image": "https://example.com/chocolate.jpg",
+    "price": 12.99,
+    "image": "https://foodlocale.in/wp-content/uploads/2023/01/crispy-mini-samosas.jpg",
     "category": "Sweets"
   },
   {
     "id": 9,
-    "name": "Exotic Spices Set",
+    "name": "Pulao",
     "description": "Discover new flavors with a set of carefully selected spices.",
-    "price": 6.99,
-    "image": "https://example.com/spices.jpg",
+    "price": 60.99,
+    "image": "https://foodlocale.in/wp-content/uploads/2023/01/Peas-Pulao1.png",
     "category": "Condiments"
   },
   {
     "id": 10,
-    "name": "Organic Green Tea",
+    "name": "Gulab jamun",
     "description": "High-quality green tea leaves for a refreshing and healthy beverage.",
-    "price": 3.99,
-    "image": "https://example.com/greentea.jpg",
+    "price": 30.99,
+    "image": "https://www.haribhoomi.com/cms/gall_content/2019/1/gulab-jamun_2019010823163203.jpg",
     "category": "Beverages"
   }
 ]
