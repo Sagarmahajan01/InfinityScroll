@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Apples",
+    "description": "Delicious and juicy apples harvested from organic farms.",
+    "price": 2.99,
+    "image": "https://example.com/apples.jpg",
+    "category": "Fruits"
+  },
+  {
+    "id": 2,
+    "name": "Premium Steak",
+    "description": "Tender and flavorful steak sourced from grass-fed cows.",
+    "price": 15.99,
+    "image": "https://example.com/steak.jpg",
+    "category": "Meat"
+  },
+  {
+    "id": 3,
+    "name": "Organic Eggs",
+    "description": "Farm-fresh eggs laid by free-range chickens.",
+    "price": 4.99,
+    "image": "https://example.com/eggs.jpg",
+    "category": "Dairy"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Vegetables Bundle",
+    "description": "A variety of seasonal vegetables packed with nutrients.",
+    "price": 8.99,
+    "image": "https://example.com/vegetables.jpg",
+    "category": "Vegetables"
+  },
+  {
+    "id": 5,
+    "name": "Artisan Bread",
+    "description": "Handcrafted bread made with the finest ingredients.",
+    "price": 5.99,
+    "image": "https://example.com/bread.jpg",
+    "category": "Bakery"
+  },
+  {
+    "id": 6,
+    "name": "Gourmet Cheese Selection",
+    "description": "A selection of premium cheeses from around the world.",
+    "price": 12.99,
+    "image": "https://example.com/cheese.jpg",
+    "category": "Dairy"
+  },
+  {
+    "id": 7,
+    "name": "Organic Coffee Beans",
+    "description": "Ethically sourced coffee beans for a rich and aromatic brew.",
+    "price": 9.99,
+    "image": "https://example.com/coffee.jpg",
+    "category": "Beverages"
+  },
+  {
+    "id": 8,
+    "name": "Deluxe Chocolate Assortment",
+    "description": "Indulge in a luxurious assortment of premium chocolates.",
+    "price": 14.99,
+    "image": "https://example.com/chocolate.jpg",
+    "category": "Sweets"
+  },
+  {
+    "id": 9,
+    "name": "Exotic Spices Set",
+    "description": "Discover new flavors with a set of carefully selected spices.",
+    "price": 6.99,
+    "image": "https://example.com/spices.jpg",
+    "category": "Condiments"
+  },
+  {
+    "id": 10,
+    "name": "Organic Green Tea",
+    "description": "High-quality green tea leaves for a refreshing and healthy beverage.",
+    "price": 3.99,
+    "image": "https://example.com/greentea.jpg",
+    "category": "Beverages"
+  }
+]
